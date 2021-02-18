@@ -40,7 +40,7 @@ From your command line, first clone erply-vatchecker:
 $ git clone https://github.com/gyanendrav2/react-carousel-madeby-gyanendra-verma.git
 
 # Go into the repository
-$ cd scandiweb-carousel
+$ cd react-carousel-madeby-gyanendra-verma
 
 # Remove current origin repository
 $ git remote remove origin
