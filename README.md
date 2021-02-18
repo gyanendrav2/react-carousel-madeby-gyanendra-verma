@@ -37,7 +37,7 @@ From your command line, first clone erply-vatchecker:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/nagireddy1234/scandiweb-carousel.git
+$ git clone https://github.com/gyanendrav2/react-carousel-madeby-gyanendra-verma.git
 
 # Go into the repository
 $ cd scandiweb-carousel
